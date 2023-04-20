@@ -1,0 +1,1 @@
+With the help of various machine learning algorithms, this model is formed which gives an accurate price prediction of a insurer to the insurance company.This model also takes the person's previous medical conditions, whether the person is a smoker or not,whether he is diabetic or not. Based on these conditions, the user's price is calculated and give to the company
